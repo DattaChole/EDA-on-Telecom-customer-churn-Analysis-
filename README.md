@@ -80,7 +80,7 @@ Churn: Whether the customer left the company
 
 - Explore contract and billing types
 
-= Identify high-risk churn groups
+- Identify high-risk churn groups
 
 ### 5. Insight Generation
 
