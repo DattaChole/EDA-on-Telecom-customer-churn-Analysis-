@@ -46,11 +46,11 @@ Churn: Whether the customer left the company
 ## Steps Followed
 1. Load the Dataset
 
-Import the CSV file into a Pandas DataFrame
+- Import the CSV file into a Pandas DataFrame
 
-Check the dataset shape and basic info
+- Check the dataset shape and basic info
 
-Preview the top rows to understand the structure
+- Preview the top rows to understand the structure
 
 2. Data Cleaning
 
