@@ -42,7 +42,7 @@ Churn: Whether the customer left the company
 
 ### The dataset used in this project is available in this repository:
 [Dataset Link]([https://example.com/dataset](https://github.com/DattaChole/EDA-on-Telecom-customer-churn-Analysis-/blob/main/Telecom_customer_churn.csv)
-(<img width="1109" height="867" alt="image" src="https://github.com/user-attachments/assets/a2115711-cadb-425b-9116-23f671dd7d44" />)
+[Dataset Link](<img width="1109" height="867" alt="image" src="https://github.com/user-attachments/assets/a2115711-cadb-425b-9116-23f671dd7d44" />)
 
 ## Steps Followed
 ### 1. Load the Dataset
