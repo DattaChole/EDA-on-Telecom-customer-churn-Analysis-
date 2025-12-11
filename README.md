@@ -91,7 +91,8 @@ Churn: Whether the customer left the company
 - Suggest possible business actions
 
 ## Visuals
-    <img width="1128" height="879" alt="image" src="https://github.com/user-attachments/assets/649f314f-32d1-496b-add5-c71e9dd3565b" />
+(<img width="1128" height="879" alt="image" src="https://github.com/user-attachments/assets/65b8c901-d2d9-43f2-8cd9-fecf5c5269cc" />)
+
 
     
 ## Results / Key Insights
