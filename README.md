@@ -40,4 +40,4 @@ Target Variable-
 
 Churn: Whether the customer left the company
 
-[Dataset Link](https://example.com/dataset)
+[Dataset Link]([https://example.com/dataset](https://github.com/DattaChole/EDA-on-Telecom-customer-churn-Analysis-/blob/main/Telecom_customer_churn.csv)
