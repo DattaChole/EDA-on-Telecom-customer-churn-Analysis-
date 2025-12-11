@@ -93,7 +93,8 @@ Churn: Whether the customer left the company
 
 ## Results / Key Insights
 ### Demographic : 
-     The customers who are senior citizens or who does not have any partners or Dependents are more likely to churn. we need to provide offers and promotions for this type of customers.
+     The customers who are senior citizens or who does not have any partners or Dependents are more likely to churn.
+     we need to provide offers and promotions for this type of customers.
 
 ### Internet :
    We need to investigate about the 'Fiber Optics' internet service as customers who are using fiber optics are churning at higher rate.
