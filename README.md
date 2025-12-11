@@ -44,8 +44,6 @@ Churn: Whether the customer left the company
 [Dataset Link]([https://example.com/dataset](https://github.com/DattaChole/EDA-on-Telecom-customer-churn-Analysis-/blob/main/Telecom_customer_churn.csv)
 
 
-<img width="1109" height="867" alt="image" src="https://github.com/user-attachments/assets/4f720d96-775b-46b8-8a97-790aa38fe776" />
-
 
 - Import the CSV file into a Pandas DataFrame
 
