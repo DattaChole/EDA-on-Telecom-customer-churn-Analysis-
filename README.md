@@ -24,8 +24,6 @@ Internet service
 
 Online security, backup, streaming TV & movies
 
-Multiple lines
-
 Account & Billing
 
 Contract type
@@ -41,3 +39,5 @@ Tenure (customer subscription duration)
 Target Variable-
 
 Churn: Whether the customer left the company
+
+[Dataset Link](https://example.com/dataset)
