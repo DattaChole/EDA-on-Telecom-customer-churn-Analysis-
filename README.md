@@ -94,7 +94,7 @@ Churn: Whether the customer left the company
 ## Visuals
 (<img width="1128" height="879" alt="image" src="https://github.com/user-attachments/assets/65b8c901-d2d9-43f2-8cd9-fecf5c5269cc" />)
 
-(<img width="1109" height="867" alt="image" src="https://github.com/user-attachments/assets/c8048e9d-98fb-42b1-a553-fb1e6d2c8e8c" />)
+Visual2
 
 
 
