@@ -90,13 +90,13 @@ Churn: Whether the customer left the company
 - Suggest possible business actions
 
 ## Visuals
-(<img width="1128" height="879" alt="image" src="https://github.com/user-attachments/assets/65b8c901-d2d9-43f2-8cd9-fecf5c5269cc" />)
+<img width="1128" height="879" alt="image" src="https://github.com/user-attachments/assets/65b8c901-d2d9-43f2-8cd9-fecf5c5269cc" />
 
-Visual 2
+### Visual 2
 
-(<img width="1109" height="867" alt="image" src="https://github.com/user-attachments/assets/0fdda468-2ea4-4497-8504-07bfc31d3037" />)
+<img width="1109" height="867" alt="image" src="https://github.com/user-attachments/assets/0fdda468-2ea4-4497-8504-07bfc31d3037" />
 
-Visual 3 
+### Visual 3 
 
 <img width="1151" height="900" alt="image" src="https://github.com/user-attachments/assets/2c8ba5c2-51db-485c-a3d1-7a71a6e5f458" />
 
