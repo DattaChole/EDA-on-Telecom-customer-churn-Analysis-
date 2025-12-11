@@ -44,7 +44,7 @@ Churn: Whether the customer left the company
 [Dataset Link]([https://example.com/dataset](https://github.com/DattaChole/EDA-on-Telecom-customer-churn-Analysis-/blob/main/Telecom_customer_churn.csv)
 
 ## Steps Followed
-1. Load the Dataset
+### 1. Load the Dataset
 
 - Import the CSV file into a Pandas DataFrame
 
@@ -52,40 +52,40 @@ Churn: Whether the customer left the company
 
 - Preview the top rows to understand the structure
 
-2. Data Cleaning
+### 2. Data Cleaning
 
-Handle missing values
+- Handle missing values
 
-Fix incorrect data types (e.g., TotalCharges as numeric)
+- Fix incorrect data types (e.g., TotalCharges as numeric)
 
-Remove duplicates
+- Remove duplicates
 
-Treat outliers if needed
+- Treat outliers if needed
 
-3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 
-Univariate analysis (distribution of each column)
+- Univariate analysis (distribution of each column)
 
-Bivariate analysis (relationships with Churn)
+- Bivariate analysis (relationships with Churn)
 
-Correlation heatmap
+- Correlation heatmap
 
-Visualize key patterns (bar charts, histograms, box plots)
+- Visualize key patterns (bar charts, histograms, box plots)
 
-4. Feature Understanding
+### 4. Feature Understanding
 
-Analyze customer demographics
+- Analyze customer demographics
 
-Study service usage patterns
+- Study service usage patterns
 
-Explore contract and billing types
+- Explore contract and billing types
 
-Identify high-risk churn groups
+= Identify high-risk churn groups
 
-5. Insight Generation
+### 5. Insight Generation
 
-Summarize key findings
+- Summarize key findings
 
-Identify factors contributing to churn
+- Identify factors contributing to churn
 
-Suggest possible business actions
+- Suggest possible business actions
