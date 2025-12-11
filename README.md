@@ -109,4 +109,5 @@ Churn: Whether the customer left the company
    we need to make offer on long term contract as customers having yearly based contract are more likely not to churn.
  
  ### Tenure : 
-    Customers with short tenure have a high risk of leaving. we need to implement some strategy to retain them.
+   Customers with short tenure have a high risk of leaving. 
+   We need to implement some strategy to retain them.
