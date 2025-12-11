@@ -89,3 +89,23 @@ Churn: Whether the customer left the company
 - Identify factors contributing to churn
 
 - Suggest possible business actions
+
+
+## Results / Key Insights
+### Demographic : 
+    The customers who are senior citizens or who does not have any partners or Dependents are more likely to churn. we need to provide offers and promotions for this type of customers.
+
+### Internet :
+   We need to investigate about the 'Fiber Optics' internet service as customers who are using fiber optics are churning at higher rate.
+
+### Additional Service : 
+   As people who didnt signed up for additional services like online security, Online Backup, Device Protection, Tech Support will churn. we can combines these additional services in a single plan so the churning will be reduced.
+    
+ ### Payment Method : 
+   We need to check if there is some issues in Electronic Check as customers are churning at a severe rate using Electronics Check.
+ 
+ ### contract : 
+   we need to make offer on long term contract as customers having yearly based contract are more likely not to churn.
+ 
+ ### Tenure : 
+    Customers with short tenure have a high risk of leaving. we need to implement some strategy to retain them.
